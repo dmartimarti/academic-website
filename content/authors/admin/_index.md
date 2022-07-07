@@ -5,9 +5,9 @@ avatar_filename: 2f873645-ccb4-4364-9540-599ee863d7eb_1_201_a.jpeg
 bio: My research interests include microbial ecology, host-microbe interactions
   and computational biology
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Microbe-host interactions
+  - Microbial community ecology
+  - Computational biology
 social:
   - icon: envelope
     icon_pack: fas
