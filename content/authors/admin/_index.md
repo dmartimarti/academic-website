@@ -29,16 +29,16 @@ organizations:
     url: https://lms.mrc.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Biomedicine and Biotechnology
+      institution: Universidad de Valencia
+      year: 2019
+    - course: MSc in molecular, cell and evolutionary biology
+      institution: Universidad de Valencia
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc in Biology
+      institution: Universidad de Valencia
+      year: 2010
+email: dmartimarti@gmail.com
 superuser: true
 highlight_name: true
 ---
