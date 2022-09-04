@@ -24,7 +24,7 @@ authors:
   - admin
 author_notes:
   - Co-author
-publication: *Lab Animal*
+publication: In *Lab Animal*
 summary: ""
 url_dataset: ""
 url_project: ""
