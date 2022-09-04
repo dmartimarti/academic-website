@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-doi: https://doi.org/10.1016/j.cell.2019.08.003
+doi: 10.1016/j.cell.2019.08.003
 publication: Cell
 abstract: Metformin is the first-line therapy for treating type 2 diabetes and a
   promising anti-aging drug. We set out to address the fundamental question of
@@ -25,7 +25,8 @@ abstract: Metformin is the first-line therapy for treating type 2 diabetes and a
   health and longevity through targeted microbiome therapies.
 draft: false
 featured: false
-url_pdf: ../static/publications/s41684-021-00724-z.pdf
+url_pdf: host-microbe-drug-nutrient-screen-identifies-bacterial-effectors-of-metformin-therapy/1-s2.0-S0092867419308918-main.pdf
+url_video: "https://www.sciencedirect.com/science/article/pii/S0092867419308918#abs0010"
 tags:
   - Research
 image:
