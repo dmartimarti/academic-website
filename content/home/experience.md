@@ -27,22 +27,18 @@ experience:
     company_url: 'https://www.uv.es/instituto-biologia-integrativa-sistemas-i2sysbio/es/instituto-biologia-integrativa-sistemas-sysbio.html'
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2013-12-01'
+    date_end: '2018-10-07'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+      PhD student under the supervision of Andrés Moya and Carlos Peña
 
-  - title: Professor of Semiconductor Physics
+  - title: Postdoc
     company: University X
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2018-10-07'
+    date_end: 
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
