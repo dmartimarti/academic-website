@@ -26,20 +26,21 @@ experience:
     company: I2SysBio
     company_url: 'https://www.uv.es/instituto-biologia-integrativa-sistemas-i2sysbio/es/instituto-biologia-integrativa-sistemas-sysbio.html'
     company_logo: org-gc
-    location: California
+    location: Valencia
     date_start: '2013-12-01'
     date_end: '2018-10-07'
     description: |2-
       PhD student under the supervision of Andrés Moya and Carlos Peña
 
   - title: Postdoc
-    company: University X
-    company_url: ''
+    company: LMS MRC/Imperial College London
+    company_url: 'http://www.cabreirolab.org/'
     company_logo: org-x
-    location: California
+    location: London
     date_start: '2018-10-07'
     date_end: 
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+      Postdoc at Filipe Cabreiro's lab
 
 design:
   columns: '2'
