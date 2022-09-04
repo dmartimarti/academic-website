@@ -22,7 +22,8 @@ publication_types:
   - "2"
 authors:
   - admin
-author_notes: []
+author_notes:
+  - Co-author
 publication: In *Lab Animal*
 summary: ""
 url_dataset: ""
