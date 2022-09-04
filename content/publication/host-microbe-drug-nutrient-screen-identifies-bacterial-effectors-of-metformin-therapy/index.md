@@ -25,6 +25,7 @@ abstract: Metformin is the first-line therapy for treating type 2 diabetes and a
   health and longevity through targeted microbiome therapies.
 draft: false
 featured: false
+url_pdf: "/static/publications/s41684-021-00724-z.pdf"
 tags:
   - Research
 image:
