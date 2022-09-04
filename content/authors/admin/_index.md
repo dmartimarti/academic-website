@@ -51,4 +51,4 @@ Armed with that theoretical and practical skillset, I wanted to gain the experim
 
 However, the pandemic came to our lives when I was only 1.5 years in the lab, so I moved back to work from home and my computers. Since then, I have been exploring different ways to study microbes and hosts, getting a wider knowledge in microbial population genetics with their pangenomes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_DMM__Version_502_.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_DMM_Version_502.pdf" "newtab" >}}resumé{{< /staticref >}}.
