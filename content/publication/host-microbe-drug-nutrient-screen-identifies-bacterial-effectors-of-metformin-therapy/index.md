@@ -25,8 +25,13 @@ abstract: Metformin is the first-line therapy for treating type 2 diabetes and a
   health and longevity through targeted microbiome therapies.
 draft: false
 featured: false
-url_pdf: host-microbe-drug-nutrient-screen-identifies-bacterial-effectors-of-metformin-therapy/1-s2.0-S0092867419308918-main.pdf
+url_pdf: publication/host-microbe-drug-nutrient-screen-identifies-bacterial-effectors-of-metformin-therapy/1-s2.0-S0092867419308918-main.pdf
 url_video: "https://www.sciencedirect.com/science/article/pii/S0092867419308918#abs0010"
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
 tags:
   - Research
 image:

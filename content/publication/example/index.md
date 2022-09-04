@@ -17,7 +17,7 @@ abstract: Microbes are an integral part of life on this planet. Microbes and
   strengths that make C. elegans a valuable biosensor tool for the study of
   microbe–host interactions.
 slides: ""
-url_pdf: example/s41684-021-00724-z.pdf
+url_pdf: publication/example/s41684-021-00724-z.pdf
 publication_types:
   - "2"
 authors:
@@ -34,7 +34,7 @@ url_video: ""
 title: "C. elegans: A biosensor for host–microbe interactions"
 doi: 10.1038/s41684-021-00724-z
 featured: true
-tags: []
+tags: [Research]
 projects:
   - Review
 image:
@@ -42,7 +42,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2022-09-04T18:46:49.695Z
+date: 2021-09-04T18:46:49.695Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
