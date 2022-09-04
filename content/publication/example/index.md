@@ -17,7 +17,7 @@ abstract: Microbes are an integral part of life on this planet. Microbes and
   strengths that make C. elegans a valuable biosensor tool for the study of
   microbe–host interactions.
 slides: ""
-url_pdf: ""
+url_pdf: "./s41684-021-00724-z.pdf"
 publication_types:
   - "2"
 authors:
@@ -49,12 +49,8 @@ url_poster: ""
 url_code: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% callout note %}} Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% callout note %}} Create your slides in Markdown - click the *Slides* button to check out the example. {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
