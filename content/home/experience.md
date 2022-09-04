@@ -22,28 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+  - title: PhD student
+    company: I2SysBio
+    company_url: 'https://www.uv.es/instituto-biologia-integrativa-sistemas-i2sysbio/es/instituto-biologia-integrativa-sistemas-sysbio.html'
+    company_logo: org-i2
+    location: Valencia
+    date_start: '2013-12-01'
+    date_end: '2018-10-07'
+    description: The main topic of my PhD project was to define the stability of microbiota with a mathematical model based on Taylor's Law, and how it is related to human health.
+    
+    
+  - title: Postdoc
+    company: LMS MRC/Imperial College London
+    company_url: 'https://lms.mrc.ac.uk/'
+    company_logo: org-ic
     location: California
-    date_start: '2021-01-01'
+    date_start: '2018-10-07'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Exploring the mechanisms that govern microbe-host interactions.
 
 design:
   columns: '2'
